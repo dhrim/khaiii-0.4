@@ -1,3 +1,22 @@
+khaiii-0.4 compiled
+
+본 프로젝트는 https://github.com/kakao/khaiii의 것을 linux에서 컴파일하고 pip로 설치할 수 있는 상태로 만들어 둔것.
+
+컴파일하는 6분 정도의 시간을 아끼려고.
+
+
+설치방법
+```
+$git clone https://github.com/dhrim/khaiii-0.4
+$pip install .
+```
+
+
+요 밑에서 붙어가 원래의 README.md
+
+<br>
+
+
 khaiii
 ====
 khaiii는 "Kakao Hangul Analyzer III"의 첫 글자들만 모아 만든 이름으로 카카오에서 개발한 세 번째 형태소분석기입니다. 두 번째 버전의 형태소분석기 이름인 dha2 (Daumkakao Hangul Analyzer 2)를 계승한 이름이기도 합니다.
