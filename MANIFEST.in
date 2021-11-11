@@ -1,0 +1,4 @@
+include README.md
+include LICENSE
+recursive-include khaiii *
+include khaiii-0.4.tar.gz
